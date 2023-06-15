@@ -47,3 +47,4 @@ ou acesse [Spotfy](https://spotfy.com)!
 | -------- | -------- |
 | Valor 1  | Valor 2  |
 | Valor 3  | Valor 4  |
+| Valor 5
